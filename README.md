@@ -1,5 +1,3 @@
-# SBU_masters
-
 This is a repository for some of the programming projects I have completed over the course of my education.
 
 
