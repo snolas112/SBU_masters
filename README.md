@@ -5,6 +5,7 @@ This is a repository for some of the programming projects I have completed over 
 
 ### Stony Brook University Applied Math & Statistics M.S. Program, Computational Applied Math Track
 _Fall 2021 - Spring 2023_
+
 _M.S. in Applied Mathemtics_
 
 - Introduction to Computational and Data Science (Python); Introduction to Scientific Programming (C++); Principles of Parallel Programming
@@ -20,6 +21,7 @@ _M.S. in Applied Mathemtics_
 
 ### Syracuse University Mathematics Ph.D. Program, Applied Math Track
 _Fall 2017 - Spring 2019_
+
 _M.S. in Mathematics_
 
 - Introduction to Probability, Mathematical Statistics
@@ -32,4 +34,8 @@ _M.S. in Mathematics_
 - Fundamentals of Analysis I & II, Introduction to Algebra I & II, Differential Geometry, Real Variables I (Measure Theory), Functions/Complex Variable I
 
 ### Fordham University Undergraduate Honors Program, Applied Mathematics Major
+_Fall 2013 - Spring 2017_
+
+_B.S. in Applied Mathematics_
+
 - Included is my honors senior thesis in the field of Hyperbolic Geometry from a Complex Analysis perspective.
